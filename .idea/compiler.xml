@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-lab01" />
+        <module name="config" />
+        <module name="demo" />
+        <module name="demo (1) (com.example)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-lab01" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo (1) (com.example)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
