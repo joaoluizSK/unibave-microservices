@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: alunos
+  cloud:
+    config:
+      uri: http://localhost:8888

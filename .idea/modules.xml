@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/alunos/alunos.iml" filepath="$PROJECT_DIR$/alunos/alunos.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-lab01/cloud-lab01.iml" filepath="$PROJECT_DIR$/cloud-lab01/cloud-lab01.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
-      <module fileurl="file://$PROJECT_DIR$/boot-lab08/demo.iml" filepath="$PROJECT_DIR$/boot-lab08/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/boot-lab02/demo (1) (com.example).iml" filepath="$PROJECT_DIR$/boot-lab02/demo (1) (com.example).iml" />
+      <module fileurl="file://$PROJECT_DIR$/disciplinas/disciplinas.iml" filepath="$PROJECT_DIR$/disciplinas/disciplinas.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/unibave-microservices.iml" filepath="$PROJECT_DIR$/.idea/unibave-microservices.iml" />
     </modules>
