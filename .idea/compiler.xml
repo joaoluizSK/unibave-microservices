@@ -11,7 +11,9 @@
         <module name="config" />
         <module name="disciplinas" />
         <module name="eureka" />
+        <module name="hystrix-dashboard" />
         <module name="security-server" />
+        <module name="turbine-stream" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,7 +25,9 @@
       <module name="demo (1) (com.example)" target="1.8" />
       <module name="disciplinas" target="1.8" />
       <module name="eureka" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
       <module name="security-server" target="1.8" />
+      <module name="turbine-stream" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/disciplinas/disciplinas.iml" filepath="$PROJECT_DIR$/disciplinas/disciplinas.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-server/security-server.iml" filepath="$PROJECT_DIR$/security-server/security-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-stream/turbine-stream.iml" filepath="$PROJECT_DIR$/turbine-stream/turbine-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/unibave-microservices.iml" filepath="$PROJECT_DIR$/.idea/unibave-microservices.iml" />
     </modules>
   </component>

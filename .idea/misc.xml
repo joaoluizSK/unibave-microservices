@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/alunos/pom.xml" />
         <option value="$PROJECT_DIR$/disciplinas/pom.xml" />
         <option value="$PROJECT_DIR$/security-server/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/turbine-stream/pom.xml" />
       </list>
     </option>
   </component>

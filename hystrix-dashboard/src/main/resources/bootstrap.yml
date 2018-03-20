@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: hystrix-dashboard
+  cloud:
+    config:
+      uri: http://localhost:8888
+
+turbine:
+  appConfig: alunos,disciplinas
+  clusterNameExpression: "'default'"
